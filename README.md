@@ -1,4 +1,4 @@
-## Hi there 👋
+Color game using Python's GUI based Tkinter library
 
 <!--
 **Debanjan202/Debanjan202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
