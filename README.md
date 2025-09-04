@@ -21,11 +21,11 @@ random is used to shuffle the list of colors.
 
 We keep:
 
-score → to track correct answers
+score - to track correct answers
 
-timeleft → to track the countdown timer
+timeleft - to track the countdown timer
 
-colours → a list of color names
+colours - a list of color names
 
 
 2. Game Start
@@ -106,15 +106,15 @@ Creates the main window (root).
 
 Then we add:
 
-Instructions Label → tells the player the rules.
+Instructions Label - tells the player the rules.
 
-Score Label → initially “Press Enter to start”.
+Score Label - initially “Press Enter to start”.
 
-Time Label → shows remaining time.
+Time Label - shows remaining time.
 
-Main Color Label → large font, displays the word.
+Main Color Label - large font, displays the word.
 
-Entry Widget → player types the answer here.
+Entry Widget - player types the answer here.
 
 
 Finally:
