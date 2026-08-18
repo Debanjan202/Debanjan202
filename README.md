@@ -1,6 +1,6 @@
 Hi I am Debanjan Guchhait
 
-🌱 I’m currently learning various softskills
+🌱 I’m currently pursuing MBA from KIIT School Management.
 
 💬 I am an ECE graduate from Techno Main Salt Lake
 
